@@ -33,9 +33,6 @@ nav{
     padding: 2rem 5rem;
 
 }
-.container,.logo{
-    /* padding-left: -100px; */
-}
 .nav-links{
     display: flex;
     align-items: center;
@@ -146,6 +143,7 @@ nav{
 }
 .new-content{
     color: hsl(233, 8%, 79%);
+    font-size: 12px;
 }
 .top-blogs{
     display: flex;
@@ -169,6 +167,7 @@ nav{
 }
 .top-blog img{
     width: 100px;
+    height: 150px;
 }
 .top-info{
     display: flex;
@@ -183,12 +182,5 @@ nav{
 }
 .top-content{
     color: hsl(236, 13%, 42%);
+    font-size: 12px;
 }
-
-
-/* --soft-orange: hsl(35, 77%, 62%);
---soft-red: hsl(5, 85%, 63%);
---off-white: hsl(36, 100%, 99%);
---graying-blue: hsl(233, 8%, 79%);
---dark-grayish-blue: hsl(236, 13%, 42%); 
---very-dark-blue: hsl(240, 100%, 5%)*/
